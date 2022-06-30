@@ -1,5 +1,5 @@
 {
-  "name": "game-of-life",
+  "name": "react-typescript-redux-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -89,5 +89,5 @@
     "webpack-dev-server": "^4.8.1",
     "workbox-webpack-plugin": "^6.5.3"
   },
-  "description": "Game of Life"
+  "description": "React Typescript Redux Template"
 }
